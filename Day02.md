@@ -1,4 +1,4 @@
-# Day 01 – Building the Foundation
+# Day 02 – Building the Foundation
 
 **Date:** July 11, 2026
 
